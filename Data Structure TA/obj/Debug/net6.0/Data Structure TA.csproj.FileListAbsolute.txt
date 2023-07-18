@@ -1,0 +1,15 @@
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\bin\Debug\net6.0\Data Structure TA.exe
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\bin\Debug\net6.0\Data Structure TA.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\bin\Debug\net6.0\Data Structure TA.runtimeconfig.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\bin\Debug\net6.0\Data Structure TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\bin\Debug\net6.0\Data Structure TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\obj\Debug\net6.0\Data Structure TA.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\obj\Debug\net6.0\Data Structure TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\obj\Debug\net6.0\Data Structure TA.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\obj\Debug\net6.0\Data Structure TA.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\obj\Debug\net6.0\Data Structure TA.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\obj\Debug\net6.0\Data Structure TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\obj\Debug\net6.0\refint\Data Structure TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\obj\Debug\net6.0\Data Structure TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\obj\Debug\net6.0\Data Structure TA.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Data Structure TA\Data Structure TA\obj\Debug\net6.0\ref\Data Structure TA.dll
